@@ -1,6 +1,6 @@
 ---
 name: definicao-objetivos
-description: Define a única coisa (ONE Thing) para cada escopo e encadeia objetivos usando os modelos mentais do livro The ONE Thing: Focusing Question (formulação e validação da pergunta de alavancagem máxima), 80/20 Extremo (Pareto iterativo até restar 1 ação essencial), Efeito Dominó (progressão geométrica 1.5x por etapa) e Counterbalancing (desequilíbrio intencional com contrabalanço consciente). Use quando o agente precisar: (1) identificar a ONE Thing de qualquer escopo (pessoal, profissional, projeto, área de negócio), (2) construir cadeia de objetivos encadeados com dependência sequencial, (3) priorizar com critério de alavancagem (torna tudo mais fácil ou desnecessário), (4) planejar foco extremo com gestão de desequilíbrio.
+description: Define a única coisa (ONE Thing) para cada escopo e encadeia objetivos usando os modelos mentais do livro The ONE Thin.
 ---
 
 # ONE Thing — Escopo e Objetivos Encadeados
