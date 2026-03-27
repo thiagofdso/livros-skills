@@ -1,6 +1,6 @@
 ---
 name: definicao-objetivos
-description: Define a única coisa (ONE Thing) para cada escopo e encadeia objetivos usando os modelos mentais do livro The ONE Thin.
+description: Define a única coisa (ONE Thing) para cada escopo e encadeia objetivos usando os modelos mentais do livro The ONE Thing.
 ---
 
 # ONE Thing — Escopo e Objetivos Encadeados
